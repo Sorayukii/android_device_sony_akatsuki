@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_akatsuki_kddi.mk
+    $(LOCAL_DIR)/afterlife_akatsuki_kddi.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_akatsuki_kddi-user \
-    lineage_akatsuki_kddi-userdebug \
-    lineage_akatsuki_kddi-eng
+    afterlife_akatsuki_kddi-user \
+    afterlife_akatsuki_kddi-userdebug \
+    afterlife_akatsuki_kddi-eng
